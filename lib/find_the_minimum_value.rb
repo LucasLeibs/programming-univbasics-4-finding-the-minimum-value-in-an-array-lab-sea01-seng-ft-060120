@@ -1,5 +1,5 @@
 def find_min_value(array)
-  array.sort 
-  array = array.sort
-  array.reverse 
+  array.reverse
+  array = array.reverse
+ p array
 end
